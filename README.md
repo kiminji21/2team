@@ -1,6 +1,11 @@
 # 💻 Team Project
 <br>
 
+[Terraform을 활용한 AWS 인프라 구축 발표자료.pdf](https://github.com/user-attachments/files/17642989/Terraform.AWS.pdf)
+
+<br>
+
+
 📜 목차
 ---
 1. 프로젝트 목적
